@@ -1,10 +1,10 @@
-### <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28"> </picture> ¡Hello World! Welcome to QuiqueReds GitHub
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28"> </picture> ¡Hello World! Welcome to QuiqueReds GitHub
 
 #
 
 **`Digital Creator (Dev Student, Content Creator, Geek)`**
 
-My name is José Enrique Rojas, I'm glad to meet you, and I'm a big fan of how technology evolves every day, that's why I'm a geek 🤓, my passion for technology is so great that since I was little I always wanted to be connected with this world, share my passion, my knowledge and leave a mark by developing things for the benefit of technology.
+My name is Jose Enrique Rojas, I'm glad to meet you, and I'm a big fan of how technology evolves every day, that's why I'm a geek 🤓, my passion for technology is so great that since I was little I always wanted to be connected with this world, share my passion, my knowledge and leave a mark by developing things for the benefit of technology.
 
 I am a Software and Network Engineering student, so I am currently learning all the potential that all technology has.
 
