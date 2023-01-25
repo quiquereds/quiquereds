@@ -23,6 +23,7 @@ I like to call myself a Digital Creator because not only do I dedicate myself to
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://github.com/nextcord/nextcord/blob/master/assets/logo.svg"/>
 <br />
 
 #
