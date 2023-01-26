@@ -12,7 +12,7 @@ I like to call myself a Digital Creator because not only do I dedicate myself to
 <p align="left">
       <a href="https://www.youtube.com/c/MAPENTech?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to MAPEN Tech" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3nQBkZDOemTx3ZHXfLg1ug?color=%23E05D44&label=MAPENTech&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/c/MAPENTech">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC3nQBkZDOemTx3ZHXfLg1ug?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 
 ---
