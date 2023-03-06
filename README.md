@@ -7,7 +7,7 @@ My name is Jose Enrique Rojas, I'm glad to meet you, and I'm a big fan of how te
 
 I am a Software and Network Engineering student, so I am currently learning all the potential that all technology has.
 
-I like to call myself a Digital Creator because not only do I dedicate myself to programming, but I also have other passions, I am a creator of technology content on YouTube, where I dedicate myself to reviewing products, making tutorials and providing recommendations. In addition to that I like video editing and I have knowledge of Graphic Design.
+I like to call myself a Digital Creator because not only do I dedicate myself to programming, but I also have other passions, I am a tech content creator on YouTube, where I dedicate myself to reviewing products, making tutorials and providing recommendations. In addition to that I like video editing and I have knowledge of Graphic Design.
 
 <p align="left">
       <a href="https://www.youtube.com/c/MAPENTech?sub_confirmation=1">
@@ -19,13 +19,14 @@ I like to call myself a Digital Creator because not only do I dedicate myself to
 
 ### <img align="left" alt="Rocket" width="35px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/70863031/214645675-51ba7ceb-3126-41d0-a8a2-15c713b0404a.gif"/>  Languages and Tools that I'm learning
 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://github.com/nextcord/nextcord/blob/master/assets/logo.svg"/>
-<img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" href="https://www.python.org/"/>
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" href="https://learn.microsoft.com/es-es/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170"/>
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" href="https://git-scm.com/"/>
+<img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" href="https://www.mysql.com/"/>
+<img align="left" alt="Nextcord" width="50px" style="padding-right:10px;" src="https://github.com/nextcord/nextcord/blob/master/assets/logo.svg" href="https://docs.nextcord.dev/en/stable/"/>
+<img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" href="https://dart.dev/"/>
+<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" href="https://flutter.dev/"/>
+<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" href="https://firebase.google.com/"/>
 <br />
 
 #
