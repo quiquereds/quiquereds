@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,astro,python,git,github,firebase,gcp,ps,pr,vscode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,astro,python,git,github,firebase,gcp,ps,pr,vscode,androidstudio,xcode&perline=7" />
   </a>
 </p>
